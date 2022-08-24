@@ -1,5 +1,5 @@
 ---
-title: "How to analyse PlanktoScope data"
+title: "Analyse PlanktoScope data"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteEngine{knitr::rmarkdown}
