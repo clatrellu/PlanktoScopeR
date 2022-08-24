@@ -12,7 +12,7 @@ PlanktoScope data exported from [Ecotaxa](https://ecotaxa.obs-vlfr.fr/)
 You can install planktoscopeR from github with:
 
     # install.packages("devtools")
-    devtools::install_github("nhenry50/planktoscopeR")
+    devtools::install_github("clatrellu/planktoscopeR")
 
 ## Usage
 
